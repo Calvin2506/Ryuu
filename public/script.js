@@ -1,4 +1,4 @@
-    const BACKEND_URL = '/api/chat'; // Vercel serverless function
+    const BACKEND_URL = 'https://chatbot-autoscale.vercel.app/api/chat'; // Vercel serverless function
 
     let isOpen    = false;
     let isBusy    = false;

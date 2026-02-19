@@ -1,0 +1,12 @@
+{
+  "name": "groq-chatbot-vercel",
+  "version": "1.0.0",
+  "description": "AI Chatbot powered by Groq — deployed on Vercel",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^37.0.0"
+  }
+}

@@ -1,9 +1,3 @@
-// ============================================
-//  Vercel Serverless Function — api/chat.js
-//  This replaces your entire server.js
-//  Vercel automatically exposes this as POST /api/chat
-// ============================================
-
 const MODEL = 'llama-3.3-70b-versatile';
 
 const SYSTEM_PROMPT = `You are Ryuu, a friendly and helpful AI assistant embedded on a website.
